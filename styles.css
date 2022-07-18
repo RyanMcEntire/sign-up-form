@@ -2,10 +2,6 @@
 body {
   margin: 0;
 }
-h1 {
-  font-size: 2em;
-  margin: 0.67em 0;
-}
 button,
 input,
 optgroup,
@@ -28,3 +24,7 @@ fieldset {
 }
 /* End default styling fixes */
 
+body {
+  display: flex;
+  flex-direction: row;
+}
