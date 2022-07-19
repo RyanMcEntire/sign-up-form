@@ -28,3 +28,15 @@ body {
   display: flex;
   flex-direction: row;
 }
+.bgImageContainer {
+  background-image: url(./surveyor-cropped.png);
+  background-size: cover;
+  width: 40%;
+  height: 100vh
+}
+form {
+max-width: 800px;
+}
+.header {
+  height: 25vh;
+}
