@@ -133,3 +133,15 @@ legend {
   font-size: 5rem;
   font-family: 'Cinzel Decorative', cursive;
 }
+.credit {
+  position: fixed;
+  bottom: 0%;
+  color: rgb(177, 177, 177);
+  font-size: .8rem;
+}
+.creditLink {
+  color: #c2c1be;
+}
+#submit:hover {
+  cursor: pointer;
+}
