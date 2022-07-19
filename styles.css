@@ -37,6 +37,7 @@ body {
 } */
 .header {
   height: 29vh;
+  min-height: 16rem;
 }
 :root {
   --link-color: rgb(158, 113, 77);
